@@ -1,0 +1,8 @@
+/hello
+*.log
+/note.txt
+/renamed.txt
+/scratch/
+/show_dir.sh
+/build/
+
