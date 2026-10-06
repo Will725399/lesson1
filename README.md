@@ -28,10 +28,10 @@ cd ..
 ## 运行
 用方式一编译后：
 ```bash
-./hello Alice
-./hello "RM Vision"
+./Welcome Alice
+./Welcome "RM Vision"
 ```
-分别输出 Hello, Alice! 和 Hello, RM Vision!。
+分别输出 Welcome,Alice! 和 Welcome, RM Vision!。
 用方式二编译后，把上面的 ./hello 换成 ./build/hello 即可。
 
 ## 错误输入
